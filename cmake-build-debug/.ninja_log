@@ -1,0 +1,15 @@
+# ninja log v5
+3	533	1673171777557453372	CMakeFiles/c_plus_plus.dir/1/main.cpp.o	895a65144d26be9a
+0	264	1673172692253967381	CMakeFiles/c_plus_plus_1.dir/1/exercise1.cpp.o	ecf1e1e7735007d4
+0	52	1673172950500796692	build.ninja	2f99410c392b35e1
+0	308	1673170963153543490	CMakeFiles/c_plus_plus.dir/main.cpp.o	dd0521976009fa09
+4	258	1673172317188203174	CMakeFiles/c_plus_plus.dir/2/exercise2.cpp.o	51e1f619efaf2742
+221	258	1673172524798852708	c_plus_plus_0	21937e8bff228e2b
+4	533	1673171777557445622	CMakeFiles/c_plus_plus.dir/2/main.cpp.o	1c598420c1aef54
+4	258	1673172317188842754	CMakeFiles/c_plus_plus.dir/1/exercise1.cpp.o	58198e781a7a9fd4
+1	221	1673172524761241578	CMakeFiles/c_plus_plus_0.dir/2/exercise2.cpp.o	814cfcbe5f9f2e9a
+265	300	1673172692291180012	c_plus_plus_1	ec7459e400740b6d
+0	261	1673173004226221600	CMakeFiles/c_plus_plus_3.dir/3/exercise3.cpp.o	9acd67f91332512
+262	297	1673173004263689855	c_plus_plus_3	706a1dce1773ede0
+3	266	1673173120964798757	CMakeFiles/c_plus_plus_3.dir/3/exercise3.cpp.o	9acd67f91332512
+266	302	1673173121002394366	c_plus_plus_3	706a1dce1773ede0

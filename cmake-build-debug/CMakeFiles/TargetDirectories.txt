@@ -1,0 +1,5 @@
+/Users/ovidiuceoca/Documents/Repos/c-plus-plus/cmake-build-debug/CMakeFiles/c_plus_plus_1.dir
+/Users/ovidiuceoca/Documents/Repos/c-plus-plus/cmake-build-debug/CMakeFiles/c_plus_plus_2.dir
+/Users/ovidiuceoca/Documents/Repos/c-plus-plus/cmake-build-debug/CMakeFiles/c_plus_plus_3.dir
+/Users/ovidiuceoca/Documents/Repos/c-plus-plus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ovidiuceoca/Documents/Repos/c-plus-plus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
