@@ -24,7 +24,6 @@ void getBiggestNumber(int x) {
         i++;
     }
 
-    // sort the array
     for (int i = 1; i < nr; i++) {
         for (int j = 1; j < nr - i; j++) {
             if (a[j] > a[j + 1]) {

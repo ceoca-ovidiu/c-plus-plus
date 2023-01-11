@@ -17,7 +17,7 @@ int main() {
     int n;
     cout << "Enter n: ";
     cin >> n;
-    cout << "The factorial of the number is: " << fact(n);
+    cout << "The factorial of number " << n <<" is: " << fact(n);
 
     return 0;
 }
