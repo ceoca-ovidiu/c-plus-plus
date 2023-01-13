@@ -502,6 +502,161 @@ build c_plus_plus_15: CXX_EXECUTABLE_LINKER__c_plus_plus_15_Debug CMakeFiles/c_p
   TARGET_FILE = c_plus_plus_15
   TARGET_PDB = c_plus_plus_15.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target c_plus_plus_16
+
+
+#############################################
+# Order-only phony target for c_plus_plus_16
+
+build cmake_object_order_depends_target_c_plus_plus_16: phony || CMakeFiles/c_plus_plus_16.dir
+
+build CMakeFiles/c_plus_plus_16.dir/16/exercise16.cpp.o: CXX_COMPILER__c_plus_plus_16_Debug /Users/ovidiuceoca/Documents/Repos/c-plus-plus/16/exercise16.cpp || cmake_object_order_depends_target_c_plus_plus_16
+  DEP_FILE = CMakeFiles/c_plus_plus_16.dir/16/exercise16.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/c_plus_plus_16.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_plus_plus_16.dir/16
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c_plus_plus_16
+
+
+#############################################
+# Link the executable c_plus_plus_16
+
+build c_plus_plus_16: CXX_EXECUTABLE_LINKER__c_plus_plus_16_Debug CMakeFiles/c_plus_plus_16.dir/16/exercise16.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/c_plus_plus_16.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c_plus_plus_16
+  TARGET_PDB = c_plus_plus_16.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c_plus_plus_17
+
+
+#############################################
+# Order-only phony target for c_plus_plus_17
+
+build cmake_object_order_depends_target_c_plus_plus_17: phony || CMakeFiles/c_plus_plus_17.dir
+
+build CMakeFiles/c_plus_plus_17.dir/17/exercise17.cpp.o: CXX_COMPILER__c_plus_plus_17_Debug /Users/ovidiuceoca/Documents/Repos/c-plus-plus/17/exercise17.cpp || cmake_object_order_depends_target_c_plus_plus_17
+  DEP_FILE = CMakeFiles/c_plus_plus_17.dir/17/exercise17.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/c_plus_plus_17.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_plus_plus_17.dir/17
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c_plus_plus_17
+
+
+#############################################
+# Link the executable c_plus_plus_17
+
+build c_plus_plus_17: CXX_EXECUTABLE_LINKER__c_plus_plus_17_Debug CMakeFiles/c_plus_plus_17.dir/17/exercise17.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/c_plus_plus_17.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c_plus_plus_17
+  TARGET_PDB = c_plus_plus_17.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c_plus_plus_18
+
+
+#############################################
+# Order-only phony target for c_plus_plus_18
+
+build cmake_object_order_depends_target_c_plus_plus_18: phony || CMakeFiles/c_plus_plus_18.dir
+
+build CMakeFiles/c_plus_plus_18.dir/18/exercise18.cpp.o: CXX_COMPILER__c_plus_plus_18_Debug /Users/ovidiuceoca/Documents/Repos/c-plus-plus/18/exercise18.cpp || cmake_object_order_depends_target_c_plus_plus_18
+  DEP_FILE = CMakeFiles/c_plus_plus_18.dir/18/exercise18.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/c_plus_plus_18.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_plus_plus_18.dir/18
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c_plus_plus_18
+
+
+#############################################
+# Link the executable c_plus_plus_18
+
+build c_plus_plus_18: CXX_EXECUTABLE_LINKER__c_plus_plus_18_Debug CMakeFiles/c_plus_plus_18.dir/18/exercise18.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/c_plus_plus_18.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c_plus_plus_18
+  TARGET_PDB = c_plus_plus_18.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c_plus_plus_19
+
+
+#############################################
+# Order-only phony target for c_plus_plus_19
+
+build cmake_object_order_depends_target_c_plus_plus_19: phony || CMakeFiles/c_plus_plus_19.dir
+
+build CMakeFiles/c_plus_plus_19.dir/19/exercise19.cpp.o: CXX_COMPILER__c_plus_plus_19_Debug /Users/ovidiuceoca/Documents/Repos/c-plus-plus/19/exercise19.cpp || cmake_object_order_depends_target_c_plus_plus_19
+  DEP_FILE = CMakeFiles/c_plus_plus_19.dir/19/exercise19.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/c_plus_plus_19.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_plus_plus_19.dir/19
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c_plus_plus_19
+
+
+#############################################
+# Link the executable c_plus_plus_19
+
+build c_plus_plus_19: CXX_EXECUTABLE_LINKER__c_plus_plus_19_Debug CMakeFiles/c_plus_plus_19.dir/19/exercise19.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/c_plus_plus_19.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c_plus_plus_19
+  TARGET_PDB = c_plus_plus_19.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target c_plus_plus_20
+
+
+#############################################
+# Order-only phony target for c_plus_plus_20
+
+build cmake_object_order_depends_target_c_plus_plus_20: phony || CMakeFiles/c_plus_plus_20.dir
+
+build CMakeFiles/c_plus_plus_20.dir/20/exercise20.cpp.o: CXX_COMPILER__c_plus_plus_20_Debug /Users/ovidiuceoca/Documents/Repos/c-plus-plus/20/exercise20.cpp || cmake_object_order_depends_target_c_plus_plus_20
+  DEP_FILE = CMakeFiles/c_plus_plus_20.dir/20/exercise20.cpp.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -fcolor-diagnostics -std=gnu++17
+  OBJECT_DIR = CMakeFiles/c_plus_plus_20.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_plus_plus_20.dir/20
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target c_plus_plus_20
+
+
+#############################################
+# Link the executable c_plus_plus_20
+
+build c_plus_plus_20: CXX_EXECUTABLE_LINKER__c_plus_plus_20_Debug CMakeFiles/c_plus_plus_20.dir/20/exercise20.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk
+  OBJECT_DIR = CMakeFiles/c_plus_plus_20.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = c_plus_plus_20
+  TARGET_PDB = c_plus_plus_20.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -536,7 +691,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/ovidiuceoca/Documents/Repos/c-plus-plus/cmake-build-debug
 
-build all: phony c_plus_plus_1 c_plus_plus_2 c_plus_plus_3 c_plus_plus_4 c_plus_plus_5 c_plus_plus_6 c_plus_plus_7 c_plus_plus_8 c_plus_plus_9 c_plus_plus_10 c_plus_plus_11 c_plus_plus_12 c_plus_plus_13 c_plus_plus_14 c_plus_plus_15
+build all: phony c_plus_plus_1 c_plus_plus_2 c_plus_plus_3 c_plus_plus_4 c_plus_plus_5 c_plus_plus_6 c_plus_plus_7 c_plus_plus_8 c_plus_plus_9 c_plus_plus_10 c_plus_plus_11 c_plus_plus_12 c_plus_plus_13 c_plus_plus_14 c_plus_plus_15 c_plus_plus_16 c_plus_plus_17 c_plus_plus_18 c_plus_plus_19 c_plus_plus_20
 
 # =============================================================================
 # Built-in targets
