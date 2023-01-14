@@ -190,7 +190,7 @@ Write a recursive C++ method which returns the smallest character of a number pa
 
 > The smallest character of the number 22 is 2
 
-### [Exercise 16]()
+### [Exercise 16](https://github.com/ceoca-ovidiu/c-plus-plus/blob/main/16/exercise16.cpp)
 
 Write a recursive C++ method which return the smallest even character of a natural number passed as parameter
 
@@ -212,7 +212,7 @@ Write a recursive C++ method which return the smallest even character of a natur
 
 > The smallest even character of number -486 is -8
 
-### [Exercise 17]()
+### [Exercise 17](https://github.com/ceoca-ovidiu/c-plus-plus/blob/main/17/exercise17.cpp)
 
 Write a C++ method that returns the sum of factorials of all characters of a number.
 
@@ -232,7 +232,7 @@ Write a C++ method that returns the sum of factorials of all characters of a num
 
 > The sum of factorials of number 0 is 0
 
-### [Exercise 18]()
+### [Exercise 18](https://github.com/ceoca-ovidiu/c-plus-plus/blob/main/18/exercise18.cpp)
 
 Write a C++ method with one parameter, n, that prints the closest number to n which is the factorial of another value
 **Example**:
@@ -249,7 +249,7 @@ Write a C++ method with one parameter, n, that prints the closest number to n wh
 
 > The closest number to -78 which is also the factorial of number 1 is: 1
 
-### [Exercise 19]()
+### [Exercise 19](https://github.com/ceoca-ovidiu/c-plus-plus/blob/main/19/exercise19.cpp)
 
 Write a C++ method which receives two numbers as parameters and return the concatenation of the numbers
 
@@ -279,7 +279,7 @@ Write a C++ method which receives two numbers as parameters and return the conca
 
 > The concatenation of number 21 with number 0 is: 210
 
-### [Exercise 20]()
+### [Exercise 20](https://github.com/ceoca-ovidiu/c-plus-plus/blob/main/20/exercise20.cpp)
 
 It is given a vector with n elements, natural numbers. Remove from the vector all even elements
 
@@ -304,3 +304,155 @@ It is given a vector with n elements, natural numbers. Remove from the vector al
 5. [-2 5 -84 9 65]
 
 > The vetor without even elements is [5 9 65 ]
+
+### [Exercise 21]()
+
+Disply in ascending order all the numbers from a specific interval which have all the characters equal
+
+**Example**:
+
+1. a = 23 b = 900
+
+> The numbers with same characters from the interval [23, 900] are: 33 44 55 66 77 88 99 111 222 333 444 555 666 777 888
+
+2. a = 0 b = 0
+
+> The interval is [0, 0]. There are no numbers inside it except 0
+
+3. a = -34 b = -400
+
+> The numbers with same characters from the interval [-34, -400] are: -44 -55 -66 -77 -88 -99 -111 -222 -333
+
+4. a = -23 b = 100 --
+
+> The numbers with same characters from the interval [-23, 100] are: -22 -11 -9 -8 -7 -6 -5 -4 -3 -2 -1 0 1 2 3 4 5 6 7
+> 8 9 11 22 33 44 55 66 77 88 99
+
+5. a = 23 b = -100 --
+
+> The numbers with same characters from the interval [23, -100] are: 22 11 9 8 7 6 5 4 3 2 1 0 -1 -2 -3 -4 -5 -6 -7 -8
+> -9 -11 -22 -33 -44 -55 -66 -77 -88 -99
+
+6. a = 34 b = 34 --
+
+> The interval is [34, 34] so there are no numbers with equal characters inside
+
+7. a = 22 b = 22 --
+
+> The interval is [22, 22] so the only number is: 22
+
+### [Exercise 22]()
+
+Print the characters from a number, recursively
+
+**Example**:
+
+1. n = 6354
+
+> The characters of number 6354 are: 4 5 3 6
+
+2. n = 0
+
+> The characters of number 0 are: 0
+
+3. n = -34
+
+> The characters of number -34 are: 4 3
+
+### [Exercise 23]()
+
+Insert element into a vector on a specified position
+
+**Example**:
+
+1. [1 2 3 4 5] element = 9 position = 3
+
+> The updated array is now 1 2 9 3 4 5
+
+2. [1 2 3 4 5] element = 9 position = -5
+
+> You entered an invalid position and the position will be changed to 1
+>
+>The updated array is now 9 1 2 3 4 5
+
+3. [1 2 3 4 5] element = 9 position = 23
+
+> You entered an invalid position and the position will be changed to 6
+>
+> The updated array is now 1 2 3 4 5 9
+
+### [Exercise 24]()
+
+Insert many elements into a vector on specified positions
+
+**Example**:
+
+1. [1 2 3 4 5] | elements = 3 | [8 9 10] | position = 2
+
+> The updated array is now 1 8 9 10 2 3 4 5
+
+2. [1 2 3 4 5] | elements = 3 | [8 9 10] | position = -2
+
+> You entered an invalid position and the position will be changed to 1
+>
+> The updated array is now 8 9 10 1 2 3 4 5
+
+3. [1 2 3 4 5] | elements = 3 | [8 9 10] | position = 10
+
+> You entered an invalid position and the position will be changed to 6
+>
+> The updated array is now 1 2 3 4 5 8 9 10
+
+### [Exercise 25]()
+
+Check if the number is palindrome or not
+
+**Example**:
+
+1. n = 121
+
+> The number 121 is palindrome
+
+2. n = 0
+
+> The number 0 is palindrome
+
+3. n = 34
+
+> The number 34 is not palindrome
+
+4. n = -121
+
+> The number -121 is palindrome
+
+5. n = -34
+
+> The number -34 is not palindrome
+
+### [Exercise 26]()
+
+Delete multiple elements from an array
+
+**Example**:
+
+1. [1 2 3 4 5] | elements = 2 | position = 2
+
+> The updated array is now 1 4 5
+
+2. [1 2 3 4 5] | elements = 3 | position = 10
+
+> You entered an invalid position and the position will be changed to 6
+>
+> The updated array is now 1 2
+
+3. [1 2 3 4 5] | elements = 3 | position = -5
+
+> You entered an invalid position and the position will be changed to 1
+>
+> The updated array is now 4 5
+
+4. [1 2 3 4 5] | elements = 6 | position = 2
+
+> You entered an invalid number of elements so the variable will be default (5)
+>
+> The array is now empty
